@@ -3,7 +3,7 @@ Repository contains Templates and other supporting material for the SRS submissi
 You have to use the files present in the Templates folder.
 ## Submission Guidelines
 - **Submission medium:** LMS
-- **Submission window:** February 14,2021 11:55 pm - February 15, 11:55 pm
+- **Submission window:** February 14, 2021 11:55 pm - February 15, 11:55 pm
 - Submit SRS doc, and SRS pdf in a zipped format.
 - **Please follow the following naming convention when submitting your files:**
   - group<number>-SE21-SRS.zip/rar e.g. group01-SE21-SRS.zip/rar (for entire Zip)
